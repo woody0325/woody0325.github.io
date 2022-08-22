@@ -1,1 +1,18 @@
+title: Dongyeon WOo
+#subtitle: (우동연, @woody0325)
+face: /assets/img/dongyeon.jpg
+#cv: https://drive.google.com/open?id=1F7MZsD-iwhFz8DN0bYuW8SMkeADGRj3H
+#cv: /assets/cv.pdf
+description: Ph.D student in Graduate School of AI at Seoul National University
+location: Seoul, Korea
+email: dongyeon.woo AT vision.snu.ac.kr
+homepage: https://woody0325.github.io
+github: https://github.com/woody0325
+#linkedin: https://www.linkedin.com/in/byeongchang-kim-64b3b9123/
+#google_analytics: UA-146496389-1
 theme: jekyll-theme-minimal
+#google_scholar: https://scholar.google.com/citations?user=KwvSFE0AAAAJ&hl=en&oi=ao
+#semantic_scholar: https://www.semanticscholar.org/author/Joonil-Na/35272603
+
+plugins:
+  - jekyll-seo-tag
