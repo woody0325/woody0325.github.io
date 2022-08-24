@@ -13,7 +13,7 @@ I do research in natural language processing, focusing on generating sentences f
 
 
 <h4 class="education">
-  <i class="material-icons md-18">account_balance</i>
+  <i class="material-icons md-18">school</i>
   <a href="http://en.snu.ac.kr/">Seoul National University (SNU)</a>, Seoul, Korea
   <sup>2020.09 - current</sup>
 </h4>
